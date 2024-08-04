@@ -23,7 +23,7 @@ $id = 24;
 
 
 // Define the URL
-$url = "https://tplayapi.code-crafters.app/321codecrafters/fetcher.json";
+$url = "https://fox.toxic-gang.xyz/tata/channels";
 
 // Fetch and decode the JSON data
 $data = json_decode(file_get_contents($url), true);
